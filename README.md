@@ -1,6 +1,6 @@
 # CV_Assignment-1_LIU-YANRU
 
-This repository contains the Jupyter Notebook for Assignment 1 of a Computer Vision course.
+This repository contains the Jupyter Notebook for Assignment 1 of a Computer Vision course. 
 
 ## Description
 
