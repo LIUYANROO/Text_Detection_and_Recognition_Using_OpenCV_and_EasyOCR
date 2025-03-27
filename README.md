@@ -1,4 +1,4 @@
-# CV_Assignment-1_LIU-YANRU
+# CV Character Recognition
 
 This repository contains the Jupyter Notebook for Assignment 1 of a Computer Vision course. 
 
